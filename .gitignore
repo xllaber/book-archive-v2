@@ -1,4 +1,6 @@
 api/documents
+**/.env
+.env
 
 HELP.md
 **/target/
